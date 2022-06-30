@@ -1,0 +1,2 @@
+prettytable
+beautifulsoup4
