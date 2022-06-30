@@ -1,7 +1,7 @@
 """
-Made by: (dc)! Kontragerilla ღ ヅ#1019 / (github) https://github.com/FurkiYildirim
+discord : ! Kontragerilla ღ ヅ#1019
+instagram : furkii_yildiriim
 """
-
 from requests import get
 from bs4 import BeautifulSoup
 from prettytable import PrettyTable
