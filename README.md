@@ -8,5 +8,5 @@ pip install -r requirements.txt
 
 #Kullanım
 ```
-python ./PyPttAvmDataScraper.py --help
+python ./WebShopDataScraper.py --help
 ```
